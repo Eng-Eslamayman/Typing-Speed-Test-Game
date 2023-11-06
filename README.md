@@ -2,8 +2,6 @@
 
 Welcome to the Typing Speed Test Game! This web-based game allows you to test and improve your typing skills by typing words within a specific time limit. The game provides different levels of difficulty, including Easy, Normal, and Hard, each with its own time constraints and word challenges.
 
-![Game Screenshot](C:\Users\eslam\OneDrive\Desktop\Screenshot 2023-11-06 123846.png)
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Game Rules](#game-rules)
